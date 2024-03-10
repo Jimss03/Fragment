@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">data</string>
+    <string name="default_web_client_id" translatable="false">183442469959-t1i2kqtadbo3ft1c10mmh2dgt5nn3imn.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://projectactivity-35624.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">183442469959</string>
+    <string name="google_api_key" translatable="false">AIzaSyAY25wM6ADJoNx8zpZ_As4ZvykJQQ_fvXc</string>
+    <string name="google_app_id" translatable="false">1:183442469959:android:3266c35f97c52486226d62</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAY25wM6ADJoNx8zpZ_As4ZvykJQQ_fvXc</string>
+    <string name="google_storage_bucket" translatable="false">projectactivity-35624.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">projectactivity-35624</string>
+    <style name="Base.Theme.Data" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Data" parent="Base.Theme.Data"/>
+</resources>
